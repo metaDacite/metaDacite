@@ -1,5 +1,4 @@
-- I’m @metaDacite
-- mid-career Statistical Programmer (SAS) in clinical research
+- Mid-career Statistical Programmer (SAS) in clinical research
 - Trying to relearn R
 - Interested in: Fisheries, Survey, and Archaeological data 
 
